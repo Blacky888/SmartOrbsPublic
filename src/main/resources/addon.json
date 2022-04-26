@@ -1,0 +1,12 @@
+{
+  "uuid": "%uuid%",
+  "name": "SmartOrb",
+  "mainClass": "de.smartbot_studios.ggorbbot.GGOrbBot",
+  "description": "SmartOrb verkauft alles beim Orbhändler",
+  "version": 1.0,
+  "author": "SmartBot-Studios",
+  "icon":  "http://license.smartbot-studios.de/smartbot.png",
+
+  "category": 1
+
+}
